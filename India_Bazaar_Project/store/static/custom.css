@@ -1,0 +1,48 @@
+body{
+    background-color: #f1f3f8;
+}
+.jumbotron
+{
+    background-image: url('image/hero_image.jpg') ;
+    padding-bottom: 20%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    font-weight: bold;
+    background-blend-mode: multiply;
+    font-family: 'Balsamiq Sans', cursive;
+    color: #16213e;
+    
+}
+
+
+.lead{
+    padding-top: 50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+}
+
+.GridImage{
+    height: 50%;
+    /* padding-bottom: 50px; */
+}
+
+.product_title{
+    padding-top:15px ;
+    padding-bottom: 10px;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+}
+
+.product_text{
+    padding-right: 20px;
+}
+
+.product_description{
+    font-size: 16px;
+    padding-top: 15px;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+}
